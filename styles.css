@@ -1,0 +1,138 @@
+body {
+    color: #131414;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: larger;
+    text-align: center;
+    margin: 0px 0px auto 0px;
+
+
+}
+
+h1 {
+    color: #66BFBF;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.6rem;
+    font-weight: normal;
+    padding-bottom:1%;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Playfair Display', serif;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+
+hr {
+    color: #81aaaa;
+    border-style: dotted;
+    border-top: none;
+    border-radius: none;
+    border-width: 4px;
+    width: 30px;
+}
+p{
+   line-height: 2;
+}
+
+/************ CLASS SELECTORS*******/
+
+.topContainer {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 10px;
+    margin-left: 0;
+    margin-right: 0;
+
+}
+
+.middleContainer {
+    margin-top:5%;
+}
+
+.bottomContainer {
+    margin-top: 3%;
+    line-height: 5;
+    background-color: #66BFBF;
+    margin:20px 0px 0px 0px;
+    padding-bottom: 10px;
+    
+}
+ 
+
+.profileImg{
+    border-radius: 100%;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+
+
+.code-Img {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.skills-Img {
+    width: 20%;
+    float: right;
+    margin-top: 5%;
+}
+
+.contact-img {
+    width: 10%;
+}
+
+.btn {
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    font-family: sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    background: #3498db;
+    padding: 11px 20px 11px 22px;
+    text-decoration: none;
+    
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+.linkedin{
+    font-size: xx-large;
+    font-size: 3.0 rem;
+}
+
+
+/*************ID SELECTORS***********/
+#skills {
+    color: #067b80;
+}
+#end-paragraph{
+    color: #EAF6F6;
+}
+
+#about-text{
+    width:50%;
+    margin-left: 25%;
+}
+
